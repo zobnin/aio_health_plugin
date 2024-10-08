@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">AIO Health Plugin</string>
+    <string name="invalid_action">Neplatná akce</string>
+    <string name="new_version_available">K dispozici je nová verze: %1$s</string>
+    <string name="click_to_download">Klikněte pro stažení</string>
+    <string name="not_connected">Není připojeno</string>
+    <string name="connecting">Připojování…</string>
+    <string name="loading">Načítání…</string>
+    <string name="tap_to_give_permission">Klepněte pro udělení oprávnění</string>
+    <string name="health_connect_not_installed">Health connect není nainstalováno</string>
+    <string name="error_unexpected">Neočekávaná chyba</string>
+    <string name="tap_to_enable">Klepněte pro aktivaci</string>
+    <string name="metric_system">Metrický systém</string>
+    <string name="health">Zdraví</string>
+    <string name="status">Stav\n</string>
+    <string name="unknown">Neznámý</string>
+    <string name="working">Funguje</string>
+    <string name="metric_system_summary">Používejte kilometry místo mil</string>
+    <string name="error_no_permission">Chyba: bez oprávnění</string>
+    <string name="error_service_not_working">Chyba: služba nefunguje</string>
+    <string name="notify_message">Toto je oznámení o službě, můžete ji bez problémů blokovat</string>
+</resources>
+

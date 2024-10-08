@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">AIO Health Plugin</string>
+    <string name="invalid_action">Μη έγκυρη ενέργεια</string>
+    <string name="new_version_available">Νέα έκδοση διαθέσιμη: %1$s</string>
+    <string name="click_to_download">Κάντε κλικ για λήψη</string>
+    <string name="not_connected">Δεν είναι συνδεδεμένο</string>
+    <string name="connecting">Σύνδεση…</string>
+    <string name="loading">Φόρτωση…</string>
+    <string name="tap_to_give_permission">Πατήστε για να δώσετε άδεια</string>
+    <string name="health_connect_not_installed">Το Health connect δεν είναι εγκατεστημένο</string>
+    <string name="error_unexpected">Απρόσμενο σφάλμα</string>
+    <string name="tap_to_enable">Πατήστε για ενεργοποίηση</string>
+    <string name="metric_system">Μέτρικο σύστημα</string>
+    <string name="health">Υγεία</string>
+    <string name="status">Κατάσταση\n</string>
+    <string name="unknown">Άγνωστο</string>
+    <string name="working">Λειτουργεί</string>
+    <string name="metric_system_summary">Χρησιμοποιήστε χιλιόμετρα αντί μιλίων</string>
+    <string name="error_no_permission">Σφάλμα: χωρίς άδεια</string>
+    <string name="error_service_not_working">Σφάλμα: η υπηρεσία δεν λειτουργεί</string>
+    <string name="notify_message">Αυτή είναι μια ειδοποίηση υπηρεσίας, μπορείτε να την αποκλείσετε ανώδυνα</string>
+</resources>
+

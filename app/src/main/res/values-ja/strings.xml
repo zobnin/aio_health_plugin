@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">AIO Health Plugin</string>
+    <string name="invalid_action">無効な操作</string>
+    <string name="new_version_available">新しいバージョンが利用可能です: %1$s</string>
+    <string name="click_to_download">クリックしてダウンロード</string>
+    <string name="not_connected">接続されていません</string>
+    <string name="connecting">接続中…</string>
+    <string name="loading">読み込み中…</string>
+    <string name="tap_to_give_permission">許可を与えるにはタップしてください</string>
+    <string name="health_connect_not_installed">Health Connect がインストールされていません</string>
+    <string name="error_unexpected">予期しないエラー</string>
+    <string name="tap_to_enable">有効にするにはタップしてください</string>
+    <string name="metric_system">メートル法</string>
+    <string name="health">健康</string>
+    <string name="status">ステータス\n</string>
+    <string name="unknown">不明</string>
+    <string name="working">動作中</string>
+    <string name="metric_system_summary">マイルの代わりにキロメートルを使用する</string>
+    <string name="error_no_permission">エラー: 許可がありません</string>
+    <string name="error_service_not_working">エラー: サービスが動作していません</string>
+    <string name="notify_message">これはサービス通知です。問題なくブロックできます</string>
+</resources>
+

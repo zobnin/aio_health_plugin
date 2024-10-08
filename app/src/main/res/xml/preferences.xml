@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="AIO Health Plugin" />
+
+    <CheckBoxPreference
+        android:key="metric_system"
+        android:defaultValue="true"
+        android:title="@string/metric_system"
+        android:summary="@string/metric_system_summary" />
+
+    <Preference
+        android:key="status"
+        android:title="@string/status"
+        android:summary="@string/unknown" />
+
+</PreferenceScreen>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">AIO Health Plugin</string>
+    <string name="invalid_action">Nieprawidłowa akcja</string>
+    <string name="new_version_available">Nowa wersja dostępna: %1$s</string>
+    <string name="click_to_download">Kliknij, aby pobrać</string>
+    <string name="not_connected">Brak połączenia</string>
+    <string name="connecting">Łączenie…</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="tap_to_give_permission">Stuknij, aby udzielić zgody</string>
+    <string name="health_connect_not_installed">Health Connect nie jest zainstalowany</string>
+    <string name="error_unexpected">Nieoczekiwany błąd</string>
+    <string name="tap_to_enable">Stuknij, aby włączyć</string>
+    <string name="metric_system">System metryczny</string>
+    <string name="health">Zdrowie</string>
+    <string name="status">Status\n</string>
+    <string name="unknown">Nieznany</string>
+    <string name="working">Działa</string>
+    <string name="metric_system_summary">Używaj kilometrów zamiast mil</string>
+    <string name="error_no_permission">Błąd: brak uprawnień</string>
+    <string name="error_service_not_working">Błąd: usługa nie działa</string>
+    <string name="notify_message">To jest powiadomienie o usłudze, możesz je łatwo zablokować</string>
+</resources>
+

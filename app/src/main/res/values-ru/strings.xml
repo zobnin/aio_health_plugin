@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">AIO Health Plugin</string>
+    <string name="invalid_action">Недопустимое действие</string>
+    <string name="new_version_available">Доступна новая версия: %1$s</string>
+    <string name="click_to_download">Нажмите для загрузки</string>
+    <string name="not_connected">Нет подключения</string>
+    <string name="connecting">Подключение…</string>
+    <string name="loading">Загрузка…</string>
+    <string name="tap_to_give_permission">Нажмите, чтобы дать разрешение</string>
+    <string name="health_connect_not_installed">Health Connect не установлен</string>
+    <string name="error_unexpected">Неожиданная ошибка</string>
+    <string name="tap_to_enable">Нажмите для включения</string>
+    <string name="metric_system">Метрическая система</string>
+    <string name="health">Здоровье</string>
+    <string name="status">Статус\n</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="working">Работает</string>
+    <string name="metric_system_summary">Километры вместо миль</string>
+    <string name="error_no_permission">Ошибка: нет разрешения</string>
+    <string name="error_service_not_working">Ошибка: служба не работает</string>
+    <string name="notify_message">Это бесполезное уведомление, его можно безболезненно заблокировать</string>
+</resources>
+

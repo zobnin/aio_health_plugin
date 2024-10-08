@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">AIO Health Plugin</string>
+    <string name="invalid_action">Geçersiz işlem</string>
+    <string name="new_version_available">Yeni sürüm mevcut: %1$s</string>
+    <string name="click_to_download">İndirmek için tıklayın</string>
+    <string name="not_connected">Bağlı değil</string>
+    <string name="connecting">Bağlanıyor…</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="tap_to_give_permission">İzin vermek için dokunun</string>
+    <string name="health_connect_not_installed">Health Connect yüklü değil</string>
+    <string name="error_unexpected">Beklenmeyen hata</string>
+    <string name="tap_to_enable">Etkinleştirmek için dokunun</string>
+    <string name="metric_system">Metrik sistem</string>
+    <string name="health">Sağlık</string>
+    <string name="status">Durum\n</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="working">Çalışıyor</string>
+    <string name="metric_system_summary">Mil yerine kilometre kullanın</string>
+    <string name="error_no_permission">Hata: izin yok</string>
+    <string name="error_service_not_working">Hata: hizmet çalışmıyor</string>
+    <string name="notify_message">Bu bir servis bildirimi, acısız bir şekilde engelleyebilirsiniz</string>
+</resources>
+

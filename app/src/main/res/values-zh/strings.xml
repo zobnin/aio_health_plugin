@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">AIO Health Plugin</string>
+    <string name="invalid_action">无效操作</string>
+    <string name="new_version_available">有新版本可用：%1$s</string>
+    <string name="click_to_download">点击下载</string>
+    <string name="not_connected">未连接</string>
+    <string name="connecting">连接中…</string>
+    <string name="loading">加载中…</string>
+    <string name="tap_to_give_permission">点击授权</string>
+    <string name="health_connect_not_installed">Health Connect 未安装</string>
+    <string name="error_unexpected">意外错误</string>
+    <string name="tap_to_enable">点击启用</string>
+    <string name="metric_system">公制系统</string>
+    <string name="health">健康</string>
+    <string name="status">状态\n</string>
+    <string name="unknown">未知</string>
+    <string name="working">工作中</string>
+    <string name="metric_system_summary">使用公里代替英里</string>
+    <string name="error_no_permission">错误：没有权限</string>
+    <string name="error_service_not_working">错误：服务不可用</string>
+    <string name="notify_message">这是服务通知，您可以无痛屏蔽它</string>
+</resources>
+
