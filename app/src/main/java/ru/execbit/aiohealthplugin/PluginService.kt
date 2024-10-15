@@ -31,16 +31,18 @@ class PluginService : Service() {
         }
     }
 
-    override fun onStartCommand(intent: Intent, flags: Int, startId: Int): Int {
+    override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
         startForeground(NOTIFICATION_ID, createNotification())
 
-        if (intent.getStringExtra(INTENT_ACTION) == null) {
-            return START_STICKY
-        }
+        if (intent != null) {
+            if (intent.getStringExtra(INTENT_ACTION) == null) {
+                return START_STICKY
+            }
 
-        when (intent.getStringExtra(INTENT_ACTION)) {
-            PluginIntentActions.PLUGIN_GET_DATA -> data.processGetData(intent)
-            PluginIntentActions.PLUGIN_SEND_ACTION -> actions.processAction(state.value, intent)
+            when (intent.getStringExtra(INTENT_ACTION)) {
+                PluginIntentActions.PLUGIN_GET_DATA -> data.processGetData(intent)
+                PluginIntentActions.PLUGIN_SEND_ACTION -> actions.processAction(state.value, intent)
+            }
         }
 
         Updater.checkForNewVersionAndShowNotify(applicationContext)
